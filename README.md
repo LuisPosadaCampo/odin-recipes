@@ -1,0 +1,1 @@
+we are creating a web structure with no design. In order to learn the fundamental html structure.
